@@ -1,0 +1,9 @@
+../drivers/src/stmf446rexx_spi_drivers.c:10:6:SPI_PeriClockControl	16	static
+../drivers/src/stmf446rexx_spi_drivers.c:43:6:SPI_Init	24	static
+../drivers/src/stmf446rexx_spi_drivers.c:71:9:SPI_GetFlagStatus	16	static
+../drivers/src/stmf446rexx_spi_drivers.c:77:6:SPI_DeInit	16	static
+../drivers/src/stmf446rexx_spi_drivers.c:93:6:SPI_SendData	24	static
+../drivers/src/stmf446rexx_spi_drivers.c:117:6:SPI_RecieveData	24	static
+../drivers/src/stmf446rexx_spi_drivers.c:142:6:SPI_IRQInterruptConfig	16	static
+../drivers/src/stmf446rexx_spi_drivers.c:146:6:SPI_IRQPriorityConfig	16	static
+../drivers/src/stmf446rexx_spi_drivers.c:150:6:SPI_PeriphiralControl	16	static

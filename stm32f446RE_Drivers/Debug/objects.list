@@ -1,0 +1,6 @@
+"./Src/SPI_main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"
+"./drivers/src/stm32f446_driver.o"
+"./drivers/src/stmf446rexx_spi_drivers.o"
