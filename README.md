@@ -4,6 +4,8 @@ A custom, bare-metal driver library for the STM32F446RE microcontroller, built f
 
 This project bypasses high-level Hardware Abstraction Layers (HALs) and standard libraries to interact directly with the MCU's memory-mapped registers based on the official STMicroelectronics Reference Manual.
 
+This project bypasses high-level Hardware Abstraction Layers (HALs) and standard libraries to interact directly with the MCU's memory-mapped registers based on the official STMicroelectronics Reference Manua
+
 ## Overview
 
 While platforms like Arduino offer pre-built libraries for rapid prototyping, they introduce significant software overhead and abstraction that compromise execution speed and memory footprint. This project takes a foundational approach—implementing device drivers via direct address and bit manipulation in C.
