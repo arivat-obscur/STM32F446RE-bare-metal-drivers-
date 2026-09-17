@@ -8,8 +8,6 @@ This project bypasses high-level Hardware Abstraction Layers (HALs) and standard
 
 While platforms like Arduino offer pre-built libraries for rapid prototyping, they introduce significant software overhead and abstraction that compromise execution speed and memory footprint. This project takes a foundational approach—implementing device drivers via direct address and bit manipulation in C.
 
-This repository demonstrates the core principles of embedded systems programming, showcasing how to initialize, configure, and control hardware peripherals at the lowest software level.
-
 ## Key Features & Technical Highlights
 
 - **Zero-Overhead Architecture:** No reliance on standard HALs, Arduino core, or external libraries, resulting in highly deterministic and optimized code execution.
